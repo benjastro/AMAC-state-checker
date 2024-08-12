@@ -41,7 +41,7 @@ ssdi_states = ["AR",
     "WI",
     "WV",
     "WY",
-    ]
+]
 
 fe_states = [
     "AL",
@@ -77,7 +77,8 @@ fe_states = [
     "WI",
     "WV",
     "WY" 
-    ]
+]
+
 resultElement = document.getElementById('result')
 
 
