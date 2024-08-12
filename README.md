@@ -1,2 +1,2 @@
-# amac-ssdi-state-checker
- State Checker For AMAC SSDI
+# AMAC-state-checker
+State Checker For AMAC SSDI and FE
